@@ -388,9 +388,9 @@ const patternBotIncludes = function (manifest) {
 /** 
  * Patternbot library manifest
  * /Users/mpelletiervaillant/Desktop/Semester 4/Web Development IV/geohub
- * @version 1521559015278
+ * @version 1521559094722
  */
-const patternManifest_1521559015278 = {
+const patternManifest_1521559094722 = {
   "commonInfo": {
     "modulifier": [
       "responsive",
@@ -846,5 +846,5 @@ const patternManifest_1521559015278 = {
   }
 };
 
-patternBotIncludes(patternManifest_1521559015278);
+patternBotIncludes(patternManifest_1521559094722);
 }());
